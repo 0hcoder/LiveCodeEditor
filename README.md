@@ -36,7 +36,7 @@ Multiple users can join the same session and edit code simultaneously with live 
 ## 📦 Installation
 
 # Clone repository
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/0hcoder/LiveCodeEditor
 
 # Install frontend dependencies
 cd client
