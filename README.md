@@ -69,7 +69,6 @@ npm run dev
 ---
 
 ## 🔮 Future Improvements
-- Add room-based collaboration
 - Add code execution feature
 - Add chat system
 - Deploy using Docker & AWS
